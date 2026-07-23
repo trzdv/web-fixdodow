@@ -1,0 +1,88 @@
+{
+  "siteData": {
+    "title": "✨ Dashboard 💌",
+    "subtitle": "Description of the dashboard",
+    "introParagraph": "˚ ༘ ⋆｡ ˚ ୨୧ ⋆ ˚｡⋆˚",
+    "categories": [
+      {
+        "id": "tops",
+        "name": "Top / Dress",
+        "description": "Shopping guide links",
+        "imageUrl": "https://r2.fivemanage.com/fFxRmH8cCmzCqQovH6aZy/satu.png",
+        "items": [
+          {
+            "id": "1",
+            "number": 1,
+            "title": "Val Pleats Cardigan",
+            "source": "@siapaya",
+            "shopLink": "s",
+            "imageUrl": "https://r2.fivemanage.com/fFxRmH8cCmzCqQovH6aZy/satu.png"
+          }
+        ]
+      },
+      {
+        "id": "pants",
+        "name": "Pants / Skirt",
+        "description": "Shopping guide links",
+        "imageUrl": "https://r2.fivemanage.com/fFxRmH8cCmzCqQovH6aZy/dua.png",
+        "items": [
+          {
+            "id": "1",
+            "number": 1,
+            "title": "Flowy Wide Pants Fanta",
+            "source": "@by.neeth",
+            "shopLink": "https://shope.ee/20TmsK1vbw",
+            "imageUrl": "https://r2.fivemanage.com/fFxRmH8cCmzCqQovH6aZy/dua.png"
+          }
+        ]
+      },
+      {
+        "id": "hijab",
+        "name": "Hijab",
+        "description": "Shopping guide links",
+        "imageUrl": "https://r2.fivemanage.com/fFxRmH8cCmzCqQovH6aZy/tiga.png",
+        "items": [
+          {
+            "id": "1",
+            "number": 1,
+            "title": "Pashmina Rayon",
+            "source": "@by.nvdila",
+            "shopLink": "https://shope.ee/6UwCHjgtK1",
+            "imageUrl": "https://r2.fivemanage.com/fFxRmH8cCmzCqQovH6aZy/tiga.png"
+          }
+        ]
+      }
+    ],
+    "ads": [
+      {
+        "id": "xuidpi504",
+        "type": "image",
+        "imageUrl": "https://r2.fivemanage.com/fFxRmH8cCmzCqQovH6aZy/bawel.png",
+        "videoUrl": ""
+      }
+    ],
+    "theme": {
+      "primaryColor": "#e6e6e6",
+      "secondaryColor": "#000000",
+      "backgroundColor": "#cdd5d0",
+      "textColor": "#000000",
+      "accentColor": "#990f69"
+    }
+  },
+  "users": [
+    {
+      "id": "gqnd5q1jr",
+      "username": "trz",
+      "password": "ohc108",
+      "role": "admin",
+      "createdAt": "2026-07-02T03:53:26.424Z"
+    },
+    {
+      "id": "tfucd889e",
+      "username": "dodow",
+      "password": "8bwsq5",
+      "role": "admin",
+      "createdAt": "2026-07-02T03:54:22.085Z"
+    }
+  ]
+}
